@@ -1,0 +1,18 @@
+
+
+
+body{
+	margin:10%;
+	text-align: center;
+}
+div{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+h1{
+	color: blue;
+}
+label{
+	font-weight: bold;
+	display: block;
+}
